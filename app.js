@@ -103,7 +103,7 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 });
 
 
-//Edward
+//Edward Grigorovich
 
 document.querySelector('.btn-new').addEventListener('click', init)
 function init() {
